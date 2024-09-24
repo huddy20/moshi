@@ -38,7 +38,7 @@ else:
 print("Не выполняется")
     
 ### Результат.
-
+ ![Меню](https://github.com/huddy20/moshi/raw/main//git_Tema3_15.png)
 
 ## Выводы
 
