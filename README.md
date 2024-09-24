@@ -62,7 +62,8 @@ else:
     print("Переменная больше 10")
 
 ### Результат.
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_2.png)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen2.jpg)
+
 
 ## Выводы
 
@@ -84,7 +85,8 @@ else:
     print("Переменной нет в этом массиве")
     
 ### Результат.
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_3.png)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen3.jpg)
+
 
 ## Выводы
 
@@ -112,7 +114,8 @@ else:
     print(f"Переменной нет в массиве и она равна {value}")
     
 ### Результат.
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_4.png)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen4.jpg)
+
 
 ## Выводы
 
@@ -146,7 +149,8 @@ for i in range(10):
         break
 
 ### Результат.
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_5.png)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen5.jpg)
+
 
 ## Выводы
 
@@ -174,7 +178,8 @@ else:
     print(f"Буквы '{value}' нет в указанной строке")
     
 ### Результат.
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_6.png)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen6.jpg)
+
 
 ## Выводы
 
@@ -192,7 +197,8 @@ for i in range(10, -1, -1):
     print(i, value)
 
 ### Результат.
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_7.png)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen7.jpg)
+
 
 ## Выводы
 
@@ -220,7 +226,8 @@ while value < 20:
     print(value)
 
 ### Результат.
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_8.png)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen8.jpg)
+
 
 ## Выводы
 
@@ -246,7 +253,8 @@ for i in range(10):
 print(value)
 
 ### Результат.
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_9.png)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen9.jpg)
+
 
 ## Выводы
 
@@ -276,7 +284,8 @@ else:
     print('В массиве все числа четные')
     
 ### Результат.
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_10.png)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen10.jpg)
+
 
 ## Выводы
 
