@@ -51,15 +51,15 @@ one = int(input("Введите значение переменной: "))
 
 if one < 0:
 
-    print("Переменная меньше 0")
+print("Переменная меньше 0")
     
 elif 0 < one < 10:
 
-    print("Переменная больше 0 и меньше 10")
+print("Переменная больше 0 и меньше 10")
     
 else:
 
-    print("Переменная больше 10")
+print("Переменная больше 10")
 
 ### Результат.
  ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen2.jpg)
@@ -78,11 +78,11 @@ value = int(input("Введите значение переменной "))
 
 if value in numbers:
 
-    print("Переменная есть в этом массиве")
+print("Переменная есть в этом массиве")
     
 else:
 
-    print("Переменной нет в этом массиве")
+print("Переменной нет в этом массиве")
     
 ### Результат.
  ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen3.jpg)
@@ -101,17 +101,17 @@ value = int(input("Введите значение переменной "))
 
 if value in numbers:
 
-    if value % 2 == 0:
+if value % 2 == 0:
     
-        print("Переменная четная и есть в этом массиве")
+print("Переменная четная и есть в этом массиве")
         
-    else:
+else:
     
-        print("Переменная нечетная и есть в этом массиве")
+print("Переменная нечетная и есть в этом массиве")
         
 else:
 
-    print(f"Переменной нет в массиве и она равна {value}")
+print(f"Переменной нет в массиве и она равна {value}")
     
 ### Результат.
  ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen4.jpg)
@@ -126,27 +126,27 @@ else:
 
 for i in range(10):
 
-    print('i = ', i)
+print('i = ', i)
     
-    if i == 0:
+if i == 0:
     
-        i += 2
+i += 2
         
-    if i == 1:
+if i == 1:
     
-        continue
+continue
         
-    if i == 2 or i == 3:
+if i == 2 or i == 3:
     
-        print('Переменная равна 2 или 3')
+print('Переменная равна 2 или 3')
         
-    elif i in [4, 5, 6]:
+elif i in [4, 5, 6]:
     
-        print('Переменная равна 4, 5 или 6')
+print('Переменная равна 4, 5 или 6')
         
-    else:
+else:
     
-        break
+break
 
 ### Результат.
  ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen5.jpg)
@@ -165,17 +165,17 @@ value = input()
 
 for i in string:
 
-    if i == value:
+if i == value:
     
-        index = string.find(value)
+index = string.find(value)
         
-        print(f"Буква '{value}' есть в строке под {index} индексом")
+print(f"Буква '{value}' есть в строке под {index} индексом")
         
-        break
+break
         
 else:
 
-    print(f"Буквы '{value}' нет в указанной строке")
+print(f"Буквы '{value}' нет в указанной строке")
     
 ### Результат.
  ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen6.jpg)
@@ -192,9 +192,9 @@ value = 100
 
 for i in range(10, -1, -1):
 
-    value -= i
+value -= i
     
-    print(i, value)
+print(i, value)
 
 ### Результат.
  ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen7.jpg)
@@ -211,19 +211,19 @@ value = 0
 
 while value < 20:
 
-    if value == 0:
+if value == 0:
     
-        value += 1
+value += 1
         
-    elif value // 5 > 1:
+elif value // 5 > 1:
 
-        value += 2
+value += 2
         
-    else:
+else:
     
-        value += 5
+value += 5
         
-    print(value)
+print(value)
 
 ### Результат.
  ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen8.jpg)
@@ -240,15 +240,15 @@ value = 0
 
 for i in range(10):
 
-    for j in range(10):
+for j in range(10):
     
-        if i != j:
+if i != j:
         
-            value += j
+value += j
             
-        else:
+else:
         
-            pass
+pass
             
 print(value)
 
@@ -269,19 +269,19 @@ flag = False
 
 for value in even_array:
 
-    if value % 2 == 1:
+if value % 2 == 1:
     
-        flag = True
+flag = True
         
 
 
 if flag is True:
 
-    print('В массиве есть нечетное число')
+print('В массиве есть нечетное число')
     
 else:
 
-    print('В массиве все числа четные')
+print('В массиве все числа четные')
     
 ### Результат.
  ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen10.jpg)
@@ -300,7 +300,7 @@ result *= 5
 
 for i in range(26):
 
-    result += 1
+result += 1
     
 
 print(result)
@@ -317,7 +317,7 @@ print(result)
 
 for char in reversed("Hello World"):
 
-    print(char)
+print(char)
 
 ### Результат.
  ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen12.jpg)
@@ -334,23 +334,23 @@ num = input("Введите число: ")
 
 if not num.isdigit() or not (0 <= int(num) <= 10):
 
-    print("Ошибка: число должно быть от 0 до 10 включительно.")
+print("Ошибка: число должно быть от 0 до 10 включительно.")
     
 else:
 
-    num = int(num)
+num = int(num)
 
-    if 0 <= num <= 3:
+if 0 <= num <= 3:
     
-        print("от 0 до 3 включительно")
+print("от 0 до 3 включительно")
         
-    elif 3 < num <= 6:
+elif 3 < num <= 6:
     
-        print("от 3 до 6")
+print("от 3 до 6")
         
-    else:
+else:
     
-        print("от 6 до 10 включительно")
+print("от 6 до 10 включительно")
 
 ### Результат.
  ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen13.jpg)
@@ -419,14 +419,14 @@ counter = 0
 values = [0, 2, 4, 6, 8, 10]
 
 while counter != 10:
-    if counter in values:
-        print(string + memory)
-    else:
-        print(string)
+if counter in values:
+print(string + memory)
+else:
+print(string)
     
-    counter += 1
-    string = string + ' world'
-    memory = string
+counter += 1
+string = string + ' world'
+memory = string
 
 print(memory)
 
