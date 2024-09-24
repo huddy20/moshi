@@ -306,7 +306,7 @@ for i in range(26):
 print(result)
 
 ### Результат.
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_11.png)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen11.jpg)
 
 ## Выводы
 
@@ -320,7 +320,7 @@ for char in reversed("Hello World"):
     print(char)
 
 ### Результат.
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_12.png)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen12.jpg)
 
 ## Выводы
 
@@ -353,8 +353,8 @@ else:
         print("от 6 до 10 включительно")
 
 ### Результат.
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_13.png)
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_132.png)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen13.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen14.jpg)
 
 ## Выводы
 
@@ -393,9 +393,9 @@ print(f"Заканчивается на 'end': {ends_with_end}")
 
 
 ### Результат.
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_14.png)
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_142.png)
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_143.png)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen15.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen16.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen17.jpg)
 
 ## Выводы
 
@@ -415,7 +415,7 @@ print(f"Заканчивается на 'end': {ends_with_end}")
 ### Настройка .gitignore
 
 ### Результат.
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/git_Tema3_15.png)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l3_screen18.jpg)
 
 ## Выводы
 
