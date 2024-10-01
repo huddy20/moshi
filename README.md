@@ -32,7 +32,7 @@ if __name__ == '__main__':
 main()
 
 ### Результат
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l4_screen1.jpg)
 
 ## Выводы
 
@@ -49,7 +49,7 @@ if __name__ == '__main__':
 print (main())
 
 ### Результат
-
+ !![Меню](https://github.com/huddy20/moshi/raw/main/image/l4_screen2.jpg)
 
 ## Выводы
 
@@ -71,7 +71,9 @@ y = 10
 answer = main(x,y)
 
 print(answer)
+
 ### Результат
+![Меню](https://github.com/huddy20/moshi/raw/main/image/l4_screen3.jpg)
 
 ## Выводы
   
@@ -97,6 +99,7 @@ print(f"\nresult={result}")
 
 ### Результат
 
+![Меню](https://github.com/huddy20/moshi/raw/main/image/l4_screen4.jpg)
 ## Выводы
 
 ## Лабораторная работа №5
@@ -122,6 +125,7 @@ print()
 main(**{'x': [1, 2, 3], 'y': [3, 3, 0]})
 
 ### Результаты
+![Меню](https://github.com/huddy20/moshi/raw/main/image/l4_screen5.jpg)
 
 ## Выводы
 
@@ -142,6 +146,7 @@ if __name__ == '__main__':
 main(x=[1, 2, 3], y=[3, 3, 0])
 
 ### Результаты
+![Меню](https://github.com/huddy20/moshi/raw/main/image/l4_screen6.jpg)
 
 ## Выводы
 
@@ -161,6 +166,7 @@ def say_hello():
 print('Hello students!')
 
 ### Результаты
+![Меню](https://github.com/huddy20/moshi/raw/main/image/l4_screen7.jpg)
 
 ## Выводы
 
@@ -184,6 +190,7 @@ if __name__ == '__main__':
 main()
 
 ### Результат
+![Меню](https://github.com/huddy20/moshi/raw/main/image/l4_screen8.jpg)
 
 ## Выводы 
 
@@ -210,6 +217,7 @@ if __name__ == '__main__':
 main()
     
 ### Результат
+![Меню](https://github.com/huddy20/moshi/raw/main/image/l4_screen9.jpg)
 
 ## Выводы
 
@@ -248,6 +256,7 @@ triangle()
 print(f"Площадь: {result}")
 
 ### Результаты
+![Меню](https://github.com/huddy20/moshi/raw/main/image/l4_screen10.jpg)
 
 ## Выводы
 
