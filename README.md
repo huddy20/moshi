@@ -31,7 +31,7 @@ set_2 = {f'Red', 'Green', 'Blue', 'Red'}
 print(set_1 - set_2)
 
 ### Результат
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen1.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen1.jpg)
 
 ## Выводы
 Работа с множествами вычитание одного из другого
@@ -62,8 +62,8 @@ a.add(i)
 
 print(a)
 ### Результат
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen2.jpg)
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen3.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen2.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen3.jpg)
 
 ## Выводы
 Использование set() и frozenset(), а также добавление элементов к множеству
@@ -83,8 +83,7 @@ return input_list
 print(replace([1, 2, 3, 4, 5]))
 
 ### Результат
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen4.jpg)
-
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen4.jpg)
 ## Выводы
 Смена первого и последнего элемента в списке 
   
@@ -95,7 +94,7 @@ a = [12, 54, 32, 57, 843, 2346, 765, 75, 25, 234, 756, 23]
 print(a[2:6])
 
 ### Результат
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen5.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen5.jpg)
 
 ## Выводы
 Вывод элементов из списка от 2 до 6
@@ -113,7 +112,7 @@ print(useless([-12.5, 54, 77-3, 0, -36, 98.2, -63, 21.7, 47, -89.6]))
 print(useless([-25.8, 86, 12.5, -86, 73.2, 0, 43, -91.5, 65.9, -7]))
 
 ### Результат
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen6.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen6.jpg)
 
 ## Выводы
 Функция useless(), которая берет из списка чисел самое большое из них, а затем делит его на длину списка.
@@ -131,7 +130,7 @@ print('Василий - ', vasiliy)
 print('Иван - ', ivan)
 
 ### Результат
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen7.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen7.jpg)
 
 ## Выводы
 Разделение списков для определения кто какой супергерой.
@@ -149,7 +148,7 @@ a.pop(0)
 print('Отсортированный список без наименьшего элемента:\n', a)
 
 ### Результат
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen8.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen8.jpg)
 
 ## Выводы
 Программа сначала выводит отсортированный список при помощи sort(), а затем отсоритрованный список без наименьшего числа при помощи pop(0)
@@ -175,7 +174,7 @@ result.append(List_maker())
 print (result)
 
 ### Результат
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen9.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen9.jpg)
 
 ## Выводы 
 Код создает список, состоящий из нескольких списков, каждый из которых содержит случайное число, повторяющееся случайное количество раз.
@@ -211,7 +210,7 @@ superset ({3, 5}, {5, 3, 8, 1})
 superset ({90, 160}, {3, 5})
     
 ### Результат
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen10.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen10.jpg)
 
 ## Выводы
 Код проверяет, является ли одно множество супермножеством другого, и выводит соответствующее сообщение в зависимости от того, является ли первое множество чистым супермножеством, равны ли множества или второе множество является супермножеством.
@@ -223,8 +222,7 @@ my_list = [1, 2, 3, 4]
 print(my_list[::-1])
 
 ### Результат
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen11.jpg)
-
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen11.jpg)
 ## Выводы
 Этот код создает список my_list с элементами [1, 2, 3, 4] и выводит его развернутую версию с помощью среза [::-1], что приводит к выводу [4, 3, 2, 1].
 
@@ -250,7 +248,7 @@ most_frequent_visitor = check_counts.most_common(1)[0]
 print('Выдано чеков :', total_checks, '\nУникальные персоны :', unique_visitors, '\nСамый посещаемый работник :', most_frequent_visitor)
 
 ### Результат
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen12.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen12.jpg)
 
 ## Выводы 
 Программа вычисляет и выводит длины векторов, представленных в виде списков, на основе переданных аргументов. Также она измеряет и выводит время выполнения функции.
@@ -283,7 +281,7 @@ if __name__ == "__main__":
 roll_dice()
 
 ### Результат
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen13.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen13.jpg)
 
 ## Вывод
 Программа моделирует бросок игральной кости с шестью гранями. В зависимости от результата броска выводится сообщение о выигрыше, проигрыше или повторном броске. 
@@ -309,7 +307,7 @@ if __name__ == '__main__':
 display_current_time()
 
 ### Результат
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen14.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen14.jpg)
 
 ## Вывод
 В этой программе создается функция display_current_time(), которая в цикле выводит текущее время с точностью до секунд на протяжении 5 секунд. Используется time.sleep(1), чтобы сделать паузу на 1 секунду между выводами времени.
@@ -327,7 +325,7 @@ average = calculate_average(10, 20, 30, 40, 50)
 print(f"Среднее арифметическое: {average}")
 
 ### Результат
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen15.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen15.jpg)
 
 ## Вывод
 Реализована функция, которая принимает произвольное количество аргументов и вычисляет их среднее арифметическое. Основная точка входа вызывает эту функцию и выводит результат. 
@@ -360,7 +358,7 @@ s = (a + b + c) / 2
 return math.sqrt(s * (s - a) * (s - b) * (s - c))
     
 ### Результат
-![Меню](https://github.com/DanilAlexeevich/DanilKholkin/raw/main/img/l5_screen16.jpg)
+ ![Меню](https://github.com/huddy20/moshi/raw/main/image/l5_screen16.jpg)
 
 ## Вывод
 Реализованы два файла: первый вычисляет площадь треугольника по формуле Герона, а второй отвечает за взаимодействие с пользователем, запрашивая у него необходимые данные и выводя результат.
