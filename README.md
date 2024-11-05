@@ -40,7 +40,7 @@ person2.surname = 'Топорищев'
 ```
 
 ### Результат
-![Меню](https://github.com/huddy20/moshi/raw/main/image/l9_screen1.jpg)
+![Меню](https://github.com/huddy20/moshi/raw/main/image/l9_screen2.jpg)
 
 ## Выводы
 Создание класса с одним свойством. Создание функции init(). Проверка, что будет если указать несществующий атрибут класса.
